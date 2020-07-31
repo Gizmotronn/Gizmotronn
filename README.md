@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my Github Profile! </br> I'm Liam, a developer from <img src="https://static.vecteezy.com/system/resources/thumbnails/000/555/992/small/AUSTRALIA.jpg" width="18"/> <b>Mekbourne, Australia</b>, currently living in  <b>Perth, Australia</b>. </p>
+<p>Welcome to my Github Profile! </br> I'm Liam, a developer from <img src="https://static.vecteezy.com/system/resources/thumbnails/000/555/992/small/AUSTRALIA.jpg" width="18"/> <b>Melbourne, Australia</b>, currently living in  <b>Perth, Australia</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />

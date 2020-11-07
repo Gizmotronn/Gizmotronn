@@ -41,10 +41,10 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/EXYNOS-999/AWS_JPL_OSR_DRL?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
-			<td><a href="https://github.com/Gizmotronn/Unity-Intro"><b>Teaching people Unity, the AC0/RD Way!</b></a></td>
+			<td><a href="https://github.com/acord-robotics/django-kit"><b>Helping people get started with Django quickly</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Gizmotronn/Unity-Intro?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Gizmotronn/Unity-Intro?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Gizmotronn/Unity-Intro?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/acord-robotics/django-kit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Gizmotronn/Unity-Intro?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>

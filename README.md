@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
+![](https://github-readme-stats.vercel.app/api?username=gizmotronn&show_icons=true&theme=default)
 
 <p>Welcome to my Github Profile! </br> I'm Liam, a developer from <img src="https://static.vecteezy.com/system/resources/thumbnails/000/555/992/small/AUSTRALIA.jpg" width="18"/> <b>Melbourne, Australia</b>, currently living in  <b>Perth, Australia</b>. </p>
 <h3>Things I code with</h3>

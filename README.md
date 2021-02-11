@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=gizmotronn&show_icons=true&theme=default)
-
 <p>Welcome to my Github Profile! </br> I'm Liam, a developer from <img src="https://static.vecteezy.com/system/resources/thumbnails/000/555/992/small/AUSTRALIA.jpg" width="18"/> <b>Melbourne, Australia</b>, currently living in  <b>Perth, Australia</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -66,6 +64,8 @@
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 15°C, <i>light rain</i></b></br>Today, the sun rises at <b>04:31</b> and sets at <b>21:16</b>.</p>-->
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Gizmotronn&show_icons=true&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gizmotronn&theme=default)
 
 ### Programming Languages 🌐
 

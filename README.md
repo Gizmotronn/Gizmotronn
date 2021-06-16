@@ -58,11 +58,11 @@ Forked from [github](https://github.com/adamalston/adamalston)
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [8 étapes pour réaliser un nouveau site web pas cher !](https://www.alfreddagenais.com/8-etapes-nouveau-site-web-pas-cher/)
-- [Les requêtes critiques](https://www.alfreddagenais.com/les-requetes-critiques/)
-- [Comment écrire des articles optimisés Search Engine Optimized dans WordPress](https://www.alfreddagenais.com/ecrire-articles-optimises-seo-wordpress/)
-- [Responsive Breakpoints – Une image responsive pour toutes les résolutions](https://www.alfreddagenais.com/responsive-breakpoints-image-responsive-toutes-resolutions/)
-- [Responsive Design : conception de sites web adaptatifs](https://www.alfreddagenais.com/responsive-design-conception-de-sites-web-adaptatifs/)
+- [A comparison of web platforms](https://dev.to/gizmotronn/a-comparison-of-web-platforms-pd2)
+- [Hashnode Elearning Platform - AWS Amplify 2021 Challenge](https://dev.to/ac0rd-software/hashnode-elearning-platform-aws-amplify-2021-challenge-2a7f)
+- [Elearning platform](https://dev.to/ac0rd-software/elearning-platform-e9d)
+- [Hacking Rainmeter for my setup](https://dev.to/gizmotronn/hacking-rainmeter-for-my-setup-2259)
+- [Taking a new design approach and welcoming two new members](https://dev.to/ac0rd-software/taking-a-new-design-approach-and-welcoming-two-new-members-ai3)
 <!-- BLOG-POST-LIST:END -->
 
 ---

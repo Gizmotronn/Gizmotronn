@@ -58,11 +58,11 @@ Forked from [github](https://github.com/adamalston/adamalston)
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring what my game will be](https://dev.to/gizmotronn/exploring-what-my-game-will-be-5hn1)
 - [A comparison of web platforms](https://dev.to/gizmotronn/a-comparison-of-web-platforms-pd2)
 - [Hashnode Elearning Platform - AWS Amplify 2021 Challenge](https://dev.to/ac0rd-software/hashnode-elearning-platform-aws-amplify-2021-challenge-2a7f)
 - [Elearning platform](https://dev.to/ac0rd-software/elearning-platform-e9d)
 - [Hacking Rainmeter for my setup](https://dev.to/gizmotronn/hacking-rainmeter-for-my-setup-2259)
-- [Taking a new design approach and welcoming two new members](https://dev.to/ac0rd-software/taking-a-new-design-approach-and-welcoming-two-new-members-ai3)
 <!-- BLOG-POST-LIST:END -->
 
 ---

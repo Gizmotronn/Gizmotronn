@@ -12,7 +12,7 @@
 
 <br />
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gizmotronn&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Now Playing 🎧
 [<img src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="350" />](https://open.spotify.com/user/223z2erxpsvvicijn6b4h46uy)

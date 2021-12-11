@@ -1,4 +1,4 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference. Ready to go
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -27,10 +27,6 @@ jobs:
           plugin_achievements_threshold: C
           plugin_discussions: yes
           plugin_gists: yes
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes

@@ -46,7 +46,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
+          plugin_notable_repositories: no
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0

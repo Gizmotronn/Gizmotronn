@@ -265,7 +265,7 @@
                         <div class="field wrap">
                             <div class="label label-flex">💬 General <div class="label-right">3</div></div>
                             <div class="label label-flex">💡 Ideas <div class="label-right">2</div></div>
-                            <div class="label label-flex">🐙 Issues Feedback <div class="label-right">1</div></div>
+                            <div class="label label-flex">🐙 Issues <div class="label-right">1</div></div>
                             <div class="label label-flex">🎓 Help <div class="label-right">1</div></div>
                             <div class="label label-flex">🤖 Arcadia <div class="label-right">1</div></div>
                             <div class="label label-flex">#️⃣ General <div class="label-right">1</div></div>
@@ -2054,7 +2054,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2022, 06:01:52 (timezone Australia/Perth) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 3 Jun 2022, 07:01:56 (timezone Australia/Perth) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

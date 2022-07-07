@@ -1,0 +1,78 @@
+# Inserts a blank line between shell prompts
+add_newline = true
+
+# Replace the "❯" symbol in the prompt with "➜"
+[character]                            # The name of the module we are configuring is "character"
+success_symbol = "[➜](bold green)"     # The "success_symbol" segment is being set to "➜" with the color "bold green"
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = false
+
+[git_branch]
+symbol = "🌱 "
+truncation_length = 9
+truncation_symbol = ""
+
+[git_state]
+format = '[\($state( $progress_current of $progress_total)\)]($style) '
+cherry_pick = "[🍒 PICKING](bold red)"
+
+[git_status]
+conflicted = "🏳"
+ahead = "🏎💨"
+behind = "😰"
+diverged = "😵"
+up_to_date = "✓"
+untracked = "🤷"
+stashed = "📦"
+modified = "📝"
+staged = '[++\($count\)](green)'
+renamed = "👅"
+deleted = "🗑"
+
+[git_commit]
+commit_hash_length = 7
+tag_symbol = "🔖 "
+
+[nodejs]
+format = "via [🤖](bold green) "
+
+[python]
+symbol = "👾 "
+pyenv_version_name = true
+
+[docker_context]
+format = "via [🐋 $context](blue bold)"
+
+[conda]
+format = "[$symbol$environment](dimmed green) "
+symbol = "🐍"
+
+[aws]
+format = 'on [$symbol($profile )(\($region\) )]($style)'
+style = "bold blue"
+symbol = "🅰 "
+[aws.region_aliases]
+ap-southeast-2 = "au"
+us-east-1 = "va"
+[aws.profile_aliases]
+CompanyGroupFrobozzOnCallAccess = 'Frobozz'
+
+[azure]
+disabled = false
+format = "on [$symbol($subscription)]($style) "
+symbol = "ﴃ "
+style = "blue bold"
+
+[gcloud]
+format = 'on [$symbol$account(@$domain)(\($project\))]($style) '
+ 
+#[username]
+#style_user = "white bold"
+#style_root = "black bold"
+#format = "user: [$user]($style) "
+#disabled = false
+#show_always = true
+#truncation_length="4"
+
